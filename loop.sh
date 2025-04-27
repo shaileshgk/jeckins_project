@@ -1,4 +1,4 @@
-for num in {1..20
+for num in {1..20}
 do
-	ech "The numner's are ---->> $num 
+	echo "The numner's are ---->> $num "
 done >> loop.txt
